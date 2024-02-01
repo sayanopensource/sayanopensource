@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayanopensource
-- 👀 I’m interested in OPen SOurce Development, Web Developemnt
+- 👀 I’m interested in Open Source Development, Web Developemnt
 - 🌱 I’m currently learning ServiceNOw and More System Designing
 - 💞️ I’m looking to collaborate on Firefox, 
 - 📫 How to reach me email at sayanopensource@gmail.com
